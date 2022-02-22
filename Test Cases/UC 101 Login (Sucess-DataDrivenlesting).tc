@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UC 101 Login (Sucess-DataDrivenlesting)</name>
+   <tag>UC1</tag>
+   <comment></comment>
+   <testCaseGuid>dff2866d-f841-4034-9cfd-0ba02598b7c1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f585066-f632-4bf6-961d-16b3ad6293c0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>321f49d5-f1e1-4ded-9266-f0668b12e796</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
